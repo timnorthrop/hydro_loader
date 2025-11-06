@@ -17,7 +17,7 @@ A Flutter plugin that gives the user access to HydroLoader, a highly customizabl
 
 See the widget in action here:
 
-![hydro_loader gif](https://timnorthrop.com/images/switchboard/hydroloader/hydroloader.gif)
+![hydroloader](https://github.com/user-attachments/assets/fb4a4def-34c4-4fdd-baab-8d3e523f5dc0)
 
 ## Getting started
 
