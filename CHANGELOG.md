@@ -13,3 +13,7 @@
 ## 1.0.3
 
 * Fixed demo GIF link.
+
+## 1.0.4
+
+* Shortened package description for 10 pub points.
