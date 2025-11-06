@@ -21,6 +21,13 @@ See the widget in action here:
 
 ## Getting started
 
+First, run the command:
+```sh
+$ flutter pub add hydro_loader
+```
+
+Then, you can import and use HydroLoader with the following statement:
+
 ```dart
 import 'package:hydro_loader/hydro_loader.dart';
 ```
