@@ -9,3 +9,7 @@
 ## 1.0.2
 
 * Fixed spelling mistake in readme.
+
+## 1.0.3
+
+* Fixed demo GIF link.
