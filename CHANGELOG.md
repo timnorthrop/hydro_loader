@@ -5,3 +5,7 @@
 ## 1.0.1
 
 * Fixed repository link.
+
+## 1.0.2
+
+* Fixed spelling mistake in readme.

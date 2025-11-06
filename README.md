@@ -36,7 +36,7 @@ import 'package:hydro_loader/hydro_loader.dart';
 
 An example application can be found in the GitHub repository https://github.com/timnorthrop/hydro_loader_demo.
 
-Example usage can be found below (with the default values, exept for progress and max which must always be provided).
+Example usage can be found below (with the default values, except for progress and max which must always be provided).
 
 ```dart
 HydroLoader(
