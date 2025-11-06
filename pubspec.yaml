@@ -1,6 +1,6 @@
 name: hydro_loader
 description: "A widget that displays a liquid wave loader. HydroLoader shows an animated liquid wave effect that fills up based on the provided progress and max values. Allows customization of wave properties such as speed, magnitude, period, colors, and border styles."
-version: 1.0.0
+version: 1.0.1
 homepage: https://timnorthrop.com/switchboard/hydroloader
 repository: https://github.com/timnorthrop/hydro_loader
 
